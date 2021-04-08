@@ -1,4 +1,3 @@
-# Start-2# Start-2
 
 Début du projet piscine Ingé 2 TD9 2020-2021
 
